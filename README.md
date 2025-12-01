@@ -6,7 +6,7 @@ Follow the steps to get the job done.
 * Log into your Amizone account
 * Select the MyFaculty option from the left side
 * Choose any faculty you would like to give feedback to
-* Press ctrl + shift + I in windows or cmd + option + i in a mac to open the console in your browser
+* Press ctrl + shift + I in windows or cmd + option + i in a mac to open the console in your browser or just press f12 if using windows.
 * Paste the code from the script.js file into the console
 * Choose the rating you want to give your Faculty
 * OPTIONAL : To change the end review, edit the first line of the Script
